@@ -2,3 +2,4 @@
 INFO 340 group project
 Hi im Kelly!
 Hi im Christina!
+Hi im Chunqi!
